@@ -1,6 +1,7 @@
 # Solucao_idade_camila
 
 https://olimpiada.ic.unicamp.br/pratique/p2/
+(Existe melhorias no código).
 > Tarefas Programação Nível 2
 > 2021
 > Fase 1
